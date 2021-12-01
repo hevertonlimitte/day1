@@ -1,0 +1,1 @@
+Arquivo README.md criado como foi solicitado.
